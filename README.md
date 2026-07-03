@@ -1,6 +1,6 @@
 # Trading Agent
 
-This project uses the Tauric Research Trading Agent.
+This project uses the Tauric Research Trading framework.
 
 ## Credits
 
